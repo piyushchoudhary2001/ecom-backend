@@ -1,4 +1,4 @@
-package com.ecombackend.productservice.dto;
+package com.ecombackend.productservice.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
