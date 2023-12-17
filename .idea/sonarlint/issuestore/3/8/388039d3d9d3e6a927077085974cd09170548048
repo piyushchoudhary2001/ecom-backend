@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦ËŠ•8þ«øºÇ1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¢Öˆçùÿÿÿÿ8¥–•»Ç1
+k
+java:S1128"NRemove this unused import 'com.ecombackend.productservice.dto.ProductRequest'.(à¶Æˆ8¦–•»Ç1
+f
+java:S1128"IRemove this unused import 'com.ecombackend.productservice.model.Product'.( ¡°×8¦–•»Ç1
